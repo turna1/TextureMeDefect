@@ -12,9 +12,6 @@ Abdulmotaleb El Saddik (University of Ottawa, Canada)
     <img src="https://img.youtube.com/vi/gJot38_FnWo/0.jpg" alt="Watch the video" style="width:70%; max-width:500px; border:2px solid #ddd; border-radius:8px; box-shadow:0px 4px 6px rgba(0,0,0,0.1);" />
 </p>
 
-![TextureMeDefect_poster](https://github.com/user-attachments/assets/fde91646-5a5a-45a8-9d77-41f4fdb2bbbb)
-
-
 # Problem
 - Synthetic texture generation for industrial applications offers a cost-effective way to visualize complex  textures, such as defect patterns.
  
