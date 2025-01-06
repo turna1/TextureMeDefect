@@ -14,9 +14,11 @@
 ![ps](https://github.com/user-attachments/assets/14ffec07-585d-4b9a-a6f6-5ff0c8385bd7)
 
 # Click to Watch the Presentation
-[![Watch the paper presentation](https://www.youtube.com/watch?v=8nqRQQTJ5sM.jpg)](https://www.youtube.com/watch?v=8nqRQQTJ5sM)
-
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8nqRQQTJ5sM">
+    <img src="https://img.youtube.com/vi/8nqRQQTJ5sM/0.jpg" alt="Watch the video" />
+  </a>
+</p>
 
 # Download the Dataset: 
 [Link to the dataset used for fine-tuning the  LLM for defect texture visual description generation ](https://github.com/turna1/GenAI-For-Goods/blob/DATASETS-TO-BUILD-RAG-LLM-RAILWAY-DEFECT/texture_training_examples.jsonl)
