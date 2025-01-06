@@ -1,5 +1,6 @@
 # TextureMeDefect: LLM-based Synthetic Railway Defect Texture on Mobile Devices
 # Authors
+
 Rahatara Ferdousi (University of Ottawa, Canada. Email: rferd068@uottawa.ca),  
 M. Anwar Hossain (Queen's University, Canada),  
 Abdulmotaleb El Saddik (University of Ottawa, Canada)
@@ -10,6 +11,8 @@ Abdulmotaleb El Saddik (University of Ottawa, Canada)
   <a href="https://www.youtube.com/watch?v=gJot38_FnWo">
     <img src="https://img.youtube.com/vi/gJot38_FnWo/0.jpg" alt="Watch the video" style="width:70%; max-width:500px; border:2px solid #ddd; border-radius:8px; box-shadow:0px 4px 6px rgba(0,0,0,0.1);" />
 </p>
+
+[TextureMeDefect_poster](https://github.com/user-attachments/assets/53807503-ef82-489b-93bf-0553d8899cd3)
 
 
 # Problem
