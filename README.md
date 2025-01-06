@@ -1,13 +1,24 @@
 # TextureMeDefect: LLM-based Synthetic Railway Defect Texture on Mobile Devices
 # Authors
 
-| **Rahatara Ferdousi**        | **M. Anwar Hossain**           | **Abdulmotaleb El Saddik**   |
-| ---------------------------- | ------------------------------ | ---------------------------- |
-| PhD Candidate                | Associate Professor            | Distinguished Professor      |
-| EECS Department              | School of Computing            | EECS Department              |
-| University of Ottawa         | Queen's University             | University of Ottawa         |
+### Rahatara Ferdousi
+- **Position**: PhD Candidate  
+- **Department**: EECS Department  
+- **University**: University of Ottawa  
 
+---
 
+### M. Anwar Hossain
+- **Position**: Associate Professor  
+- **Department**: School of Computing  
+- **University**: Queen's University  
+
+---
+
+### Abdulmotaleb El Saddik
+- **Position**: Distinguished Professor  
+- **Department**: EECS Department  
+- **University**: University of Ottawa  
 
 # Click to Watch the TextureMeDefect Promo
 <p align="center">
