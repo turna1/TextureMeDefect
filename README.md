@@ -1,3 +1,5 @@
+# TextureMeDefect: LLM-based Synthetic Railway Defect Texture on Mobile Devices![image](https://github.com/user-attachments/assets/bf7b6ba0-c999-4147-a2ae-c58c5dd455e5)
+
 # Click to Watch the TextureMeDefect Promo
 <p align="center">
   <a href="https://www.youtube.com/watch?v=gJot38_FnWo">
@@ -51,7 +53,7 @@ please send a request with a subject line-"Requesting demo of TextureMeDefect Ap
 }
 
 
-3. Ferdousi, Rahatara, et al. "Defecttwin: When llm meets digital twin for railway defect inspection." arXiv preprint arXiv:2409.06725 (2024).
+2. Ferdousi, Rahatara, et al. "Defecttwin: When llm meets digital twin for railway defect inspection." arXiv preprint arXiv:2409.06725 (2024).
 
    
  @article{ferdousi2024defecttwin,
