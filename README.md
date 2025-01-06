@@ -41,6 +41,7 @@ please send a request with a subject line-"Requesting demo of TextureMeDefect Ap
 
 # Citation:
 1. Ferdousi, Rahatara, M. Anwar Hossain, and Abdulmotaleb El Saddik. "TextureMeDefect: LLM-based Defect Texture Generation for Railway Components on Mobile Devices." arXiv preprint arXiv:2410.18085 (2024).
+
    
  @article{ferdousi2024texturemedefect,
   title={TextureMeDefect: LLM-based Defect Texture Generation for Railway Components on Mobile Devices},
@@ -48,7 +49,11 @@ please send a request with a subject line-"Requesting demo of TextureMeDefect Ap
   journal={arXiv preprint arXiv:2410.18085},
   year={2024}
 }
+
+
 3. Ferdousi, Rahatara, et al. "Defecttwin: When llm meets digital twin for railway defect inspection." arXiv preprint arXiv:2409.06725 (2024).
+
+   
  @article{ferdousi2024defecttwin,
   title={Defecttwin: When llm meets digital twin for railway defect inspection},
   author={Ferdousi, Rahatara and Hossain, M Anwar and Yang, Chunsheng and Saddik, Abdulmotaleb El},
