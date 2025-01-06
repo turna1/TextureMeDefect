@@ -1,4 +1,11 @@
-# TextureMeDefect: LLM-based Synthetic Railway Defect Texture on Mobile Devices![image](https://github.com/user-attachments/assets/bf7b6ba0-c999-4147-a2ae-c58c5dd455e5)
+# TextureMeDefect: LLM-based Synthetic Railway Defect Texture on Mobile Devices
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/a9615a8d-c9b2-46c8-bd1f-bceaf0038f9e" alt="" style="width:70%; max-width:500px; border:2px solid #ddd; border-radius:8px; box-shadow:0px 4px 6px rgba(0,0,0,0.1);" />
+</p>
+
+
+
+
 
 # Click to Watch the TextureMeDefect Promo
 <p align="center">
