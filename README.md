@@ -1,5 +1,12 @@
 # Click to Watch the TextureMeDefect Promo
-[![Watch the promo](https://img.youtube.com/vi/gJot38_FnWo/0.jpg)](https://www.youtube.com/watch?v=gJot38_FnWo)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=gJot38_FnWo">
+    <img src="https://img.youtube.com/vi/gJot38_FnWo/0.jpg" alt="Watch the video" style="width:70%; max-width:500px; border:2px solid #ddd; border-radius:8px; box-shadow:0px 4px 6px rgba(0,0,0,0.1);" />
+    <br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Video_play_icon.png" alt="Play button" width="50" style="position:relative; top:-140px; opacity:0.8;" />
+  </a>
+</p>
+
 
 # Problem
 - Synthetic texture generation for industrial applications offers a cost-effective way to visualize complex  textures, such as defect patterns.
